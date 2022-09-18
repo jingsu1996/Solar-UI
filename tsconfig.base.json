@@ -15,6 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
+      "@solar-ui/components": ["libs/components/src/index.ts"],
       "@solar-ui/theme": ["libs/theme/src/index.ts"]
     }
   },
